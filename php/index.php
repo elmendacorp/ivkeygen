@@ -6,7 +6,7 @@
   <title>RamdonKeyGen</title>
 </head>
 <body>
-  <h3>Cada vez que le des a F5 esto te va a escupir una clave alfanumerica de 40 digitos, mas bonica que todas las cosas. Ej: Para que no te roben en wifi </h3>
+  <h3>Cada vez que le des a F5 esto te va a escupir una clave alfanumérica de 40 dígitos, mas bonica que todas las cosas. Ej: Para que no te roben en wifi </h3>
   <?php
 function keygen($length=10)
 {
